@@ -6,7 +6,12 @@ namespace Wow
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            int a = 140;
+            int b = 280;
+
+            
+            Console.WriteLine(a + b);
         }
     }
 }
